@@ -1,0 +1,181 @@
+並	row	hei	nami, nara-bu	8
+乱	chaos	ran	mida-reru	7
+乳	milk	nyū	chichi	8
+亡	deceased	bō	na-kunaru	3
+仁	kindness	jin		4
+供	offer	kyō, ku	tomo	8
+俳	actor	hai		10
+値	value	chi	atai	10
+傷	wound	shō	kizu	13
+優	superior	yū	yasa-shii	17
+党	political party	tō		10
+冊	counter for books	satsu		5
+処	dispose	sho		5
+刻	engrave	koku	kiza-mu	8
+割	divide	katsu	wa-ru	12
+創	create	sō	tsuku-ru	12
+劇	drama	geki		15
+勤	diligence	kin	tsuto-meru	12
+危	dangerous	ki	abu-nai	6
+卵	egg	ran	tamago	7
+厳	strict	gen	kibi-shii	17
+収	obtain	shū	osa-meru	4
+后	queen	kō, gō	kisaki	6
+否	negate	hi	ina, iya	7
+吸	suck	kyū	su-u	6
+呼	call	ko	yo-bu	8
+善	virtue	zen	yo-i	12
+困	quandary	kon	koma-ru	7
+垂	droop	sui	ta-reru	8
+城	castle	jō	shiro	9
+域	range	iki		11
+奏	play music	sō	kana-deru	9
+奮	stirred up	fun	furu-u	16
+姿	shape	shi	sugata	9
+存	suppose	son		6
+孝	filial piety	kō		7
+宅	home	taku	ie	6
+宇	eaves	u		6
+宗	religion	shū	sō	8
+宙	mid-air	chū		8
+宝	treasure	hō	takara	8
+宣	proclaim	sen	notama-u	9
+密	secrecy	mitsu		11
+寸	measurement	sun		3
+専	specialty	sen	moppa-ra	9
+射	shoot	sha	i-ru	10
+将	leader	shō		10
+尊	revered	son	tōto-bu	12
+就	concerning	shū	tsu-ku	12
+尺	measure of length	shaku		4
+届	deliver	kai	todo-ku	8
+展	expand	ten		10
+層	stratum	sō		14
+己	self	ko	onore	3
+巻	scroll	kan	maki	9
+幕	curtain	maku, baku		13
+干	dry	kan	ho-su	3
+幼	infancy	yō	osana-i	5
+庁	government office	chō		5
+座	sit	za	suwa-ru	10
+延	prolong	en	no-basu	8
+律	rhythm	ritsu		9
+従	obey	jū	shitaga-u	10
+忘	forget	bō	wasu-reru	7
+忠	loyalty	chū		8
+憲	constitution	ken		16
+我	ego	ga	ware	7
+批	criticism	hi		7
+担	shouldering	tan	nina-u	8
+拝	worship	hai	oga-mu	8
+拡	broaden	kaku	hiro-geru	8
+捨	discard	sha	su-teru	11
+探	look for, search	tan	saga-su	11
+推	infer	sui		11
+揮	brandish	ki		12
+操	maneuver	sō	ayatsu-ru	16
+敬	respect	kei	uyama-u	12
+映	reflect	ei	utsu-ru	9
+晩	nightfall	ban		12
+暖	warmth	dan	atata-kai	13
+暮	livelihood	bo	ku-rasu	14
+朗	melodious	rō	hoga-raka	10
+机	desk	ki	tsukue	6
+枚	sheet of...	mai		8
+染	dye	sen	so-meru	9
+株	stocks	shu	kabu	10
+棒	rod	bō		12
+模	imitation	mo, bo		14
+権	rights	ken		15
+樹	trees	ju	ki	16
+欲	longing	yoku	ho-shii	11
+段	steps	dan		9
+沿	run alongside	en	so-u	8
+泉	fountain	sen	izumi	9
+洗	wash	sen	ara-u	9
+派	sect	ha		9
+済	settle	sai	su-mu	11
+源	source	gen	minamoto	13
+潮	tide	chō	shio	15
+激	violent	geki	hage-shii	16
+灰	ashes	kai	hai	6
+熟	ripen	juku	u-reru	15
+片	one-sided	hen	kata	4
+班	corps	han		10
+異	uncommon	i	koto-naru	11
+疑	doubt	gi	utaga-u	14
+痛	pain	tsū	ita-i	12
+皇	emperor	kō, ō		9
+盛	prosper	sei	mo-ru	11
+盟	alliance	mei		13
+看	watch over	kan		9
+砂	sand	sa, sha	suna	9
+磁	magnet	ji		14
+私	me	shi	watakushi, watashi	7
+秘	secret	hi	hi-meru	10
+穀	cereal	koku		14
+穴	hole	ketsu	ana	5
+窓	window	sō	mado	11
+筋	muscle	kin	suji	12
+策	scheme	saku		12
+簡	simplicity	kan		18
+糖	sugar	tō		16
+系	lineage	kei		7
+紅	crimson	kō	beni, kurenai	9
+納	settlement	nō	osa-meru	10
+純	genuine	jun		10
+絹	silk	ken	kinu	13
+縦	vertical	jū	tate	16
+縮	shrink	shuku	chidi-mu	17
+署	government office	sho		13
+翌	forthcoming	yoku		11
+聖	holy	sei		13
+肺	lung	hai		9
+背	back	hai	se	9
+胸	chest, breast	kyō	mune	10
+脳	brain	nō		11
+腹	abdomen	fuku	hara	13
+臓	entrails	zō		19
+臨	lookover	rin	nozo-mu	18
+至	climax	shi	ita-ru	6
+若	young	jaku	waka-i	8
+著	renowned	cho	arawa-su, ichijiru-shii	11
+蒸	foment	jō	mu-su	13
+蔵	storehouse	zō	kura	15
+蚕	silkworm	san	kaiko	10
+衆	masses	shū		12
+裁	judge	sai	saba-ku	12
+装	attire	sō, shō	yosoo-u	12
+裏	rear	ri	ura	13
+補	supplement	ho	ogina-u	12
+視	look at	shi	mi-ru	11
+覧	perusal	ran		17
+討	chastise	tō	u-tsu	10
+訪	visit	hō	tazu-neru	11
+訳	translate, reason	yaku	wake	11
+詞	term	shi	kotoba	12
+誌	document	shi		14
+認	recognize	nin	mito-meru	14
+誕	born	tan		15
+誠	sincerity	sei	makoto	13
+誤	mistake	go	ayama-ru	14
+論	argument, discussion	ron		15
+諸	various	sho	moro	15
+警	admonish	kei	imashi-meru	19
+貴	precious	ki	tatto-i	12
+賃	fare	chin		13
+遺	bequeath	i		15
+郵	mail	yū		11
+郷	home town	kyō	gō	11
+針	needle	shin	hari	10
+鋼	steel	kō	hagane	16
+閉	closed	hei	shi-meru	11
+閣	tower	kaku		14
+降	descend	kō	o-riru	10
+陛	majesty	hei		10
+除	exclude	jo, ji	nozo-ku	10
+障	hurt	shō	sawa-ru	14
+難	difficult	nan	muzuka-shii	18
+革	leather	kaku	kawa	9
+頂	top, receive	chō	itada-ku	11
+骨	bone	kotsu	hone	10

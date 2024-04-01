@@ -1,0 +1,200 @@
+丁	street, district	chō	hinoto	2
+世	generation	sei, se	yo	5
+両	both	ryō	teru, futatsu	6
+主	master, main	shu	nushi, omo	5
+乗	ride	jō	no-ru	9
+予	beforehand	yo	arakaji-me	4
+事	intangible thing	ji	koto	8
+仕	serve	shi	tsuka-eru	5
+他	other	ta	hoka	5
+代	era, substitute	dai, tai	ka-waru, yo	5
+住	dwell	jū	su-mu	7
+使	use	shi	tsuka-u	8
+係	person in charge	kei	kakari, kaka-ru	9
+倍	double	bai		10
+全	whole	zen	matta-ku	6
+具	tool	gu	sona-eru, tsubusa-ni	8
+写	copy	sha	utsu-su	5
+列	row	retsu		6
+助	help	jo	tasu-keru	7
+勉	diligence	ben	tsuto-meru	10
+動	move	dō	ugo-ku	11
+勝	win	shō	ka-tsu	12
+化	change	ka	ba-keru	4
+区	district	ku		4
+医	doctor	i	iya-su, i-suru	7
+去	leave	kyo, ko	sa-ru	5
+反	anti-	han	so-ru	4
+取	take	shu	to-ru	8
+受	receive	ju	u-keru	8
+号	number	gō	yobina, sake-bu	5
+向	face	kō	mu-kau	6
+君	you, monarch	kun	kimi	7
+味	flavor	mi	aji, aji-wau	8
+命	fate, life	mei	inochi	8
+和	harmony, Japanese	wa	yawa-ragu, nago-yaka	8
+品	article	hin	shina	9
+員	employee	in		10
+商	commerce	shō		11
+問	question	mon	to-u, ton	11
+坂	slope	han	saka	7
+央	center	ō		5
+始	begin	shi	haji-meru	8
+委	committee	i	yuda-neru	8
+守	protect	shu	mamo-ru	6
+安	cheap, calm	an	yasu-i	6
+定	determine	tei, jō	sada-meru	8
+実	fruit, realization	jitsu	mi, mino-ru	8
+客	guest	kyaku		9
+宮	Shinto shrine, prince	kyū, gū	miya	10
+宿	inn	shuku	yado, yado-ru	11
+寒	cold (weather)	kan	samu-i	12
+対	opposite, against	tai, tsui	aite, soro-i	7
+局	office	kyoku	tsubone	7
+屋	roof	oku	ya	9
+岸	shore	gan	kishi	8
+島	island	tō	shima	10
+州	state, province	shū	su	6
+帳	notebook	chō	tobari	11
+平	flat	hei, byō	tai-ra, hira	5
+幸	happiness	kō	saiwa-i, shiawa-se	8
+度	degree	do	tabi	9
+庫	warehouse	ko, ku	kura	10
+庭	yard	tei	niwa	10
+式	style, ceremony, numerical formula	shiki		6
+役	role	yaku		7
+待	wait	tai	ma-tsu	9
+急	hurry	kyū	iso-gu	9
+息	breath	soku	iki	10
+悪	bad	aku	waru-i	11
+悲	sad	hi	kana-shii	12
+想	thought	sō		13
+意	idea	i		13
+感	feel	kan	kan-jiru	13
+所	place	sho	tokoro	8
+打	hit	da	u-tsu	5
+投	throw	tō	na-geru	7
+拾	pick up	shū	hiro-u	9
+持	hold	ji	mo-tsu	9
+指	finger, point	shi	yubi, sa-su	9
+放	release	hō	hana-su	8
+整	organize	sei	totono-eru	16
+旅	trip	ryo	tabi	10
+族	tribe	zoku		11
+昔	long ago	seki, shaku	mukashi	8
+昭	shine	shō		9
+暑	hot	sho	atsu-i	12
+暗	dark	an	kura-i	13
+曲	melody, curve	kyoku	ma-garu	6
+有	possess	yū	a-ru	6
+服	clothes	fuku		8
+期	period of time	ki		12
+板	board	han, ban	ita	8
+柱	pillar	chū	hashira	9
+根	root	kon	ne	10
+植	plant	shoku	u-eru	12
+業	business	gyō		13
+様	appearance	yō	sama	14
+横	horizontal	ō	yoko	15
+橋	bridge	kyō	hashi	16
+次	next	ji	tsugi, tsu-gu	6
+歯	tooth	shi	ha	12
+死	death	shi	shi-nu	6
+氷	ice	hyō	kōri	5
+決	decide	ketsu	ki-meru	7
+油	oil	yu	abura	8
+波	wave	ha	nami	8
+注	pour	chū	soso-gu	8
+泳	swim	ei	oyo-gu	8
+洋	ocean	yō		9
+流	stream	ryū	naga-reru	10
+消	extinguish	shō	ki-eru, ke-su	10
+深	deep	shin	fuka-i	11
+温	warm	on	atata-kai	12
+港	harbor	kō	minato	12
+湖	lake	ko	mizu'umi	12
+湯	hot water	tō	yu	12
+漢	Chinese	kan		13
+炭	charcoal	tan	sumi	9
+物	(tangible) thing	butsu, motsu	mono	8
+球	sphere	kyū	tama	11
+由	reason	yū, yu	yoshi	5
+申	say	shin	mō-su	5
+界	world	kai		9
+畑	farm		hata, hatake	9
+病	sick	byō	yamai	10
+発	departure	hatsu		9
+登	climb	tō, to	nobo-ru	12
+皮	skin	hi	kawa	5
+皿	dish	bei	sara	5
+相	mutual	sō	ai	9
+県	prefecture	ken	ka-keru	9
+真	true	shin	ma	10
+着	wear, arrive	chaku	ki-ru, tsu-ku	12
+短	short	tan	mijika-i	12
+研	sharpen	ken	to-gu	9
+礼	manners	rei		5
+神	deity	shin, jin	kami	9
+祭	festival	sai	matsu-ri	11
+福	luck	fuku		13
+秒	second	byō		9
+究	research	kyū	kiwa-meru	7
+章	chapter	shō		11
+童	juvenile	dō	warabe	12
+笛	flute	teki	fue	11
+第	ordinal	dai		11
+筆	writing brush	hitsu	fude	12
+等	class	tō	hito-shii	12
+箱	box	sō	hako	15
+級	rank	kyū		9
+終	end	shū	o-waru, o-eru	11
+緑	green	ryoku	midori	14
+練	practice	ren	ne-ru	14
+羊	sheep	yō	hitsuji	6
+美	beauty	bi	utsuku-shii	9
+習	learn	shū	nara-u	11
+者	someone	sha	mono	8
+育	raise	iku	soda-tsu	8
+苦	suffer, bitter	ku	kuru-shii, niga-i	8
+荷	luggage	ka	ni	10
+落	fall	raku	o-chiru, o-tosu	12
+葉	leaf	yō	ha	12
+薬	medicine	yaku	kusuri	16
+血	blood	ketsu	chi	6
+表	express	hyō	omote, arawa-su	8
+詩	poem	shi	uta	13
+調	tone, find	chō	shira-beru	15
+談	discuss	dan		15
+豆	beans	tō, zu	mame	7
+負	lose	fu	ma-keru, o-u	9
+起	awaken	ki	o-kiru	10
+路	path	ro	ji	13
+身	body	shin	mi	7
+転	to shift, fall down	ten	koro-bu	11
+軽	light	kei	karu-i	12
+農	agriculture	nō		13
+返	return	hen	kae-su	7
+追	follow	tsui	o-u	9
+送	send	sō	oku-ru	9
+速	fast	soku	haya-i	10
+進	progress	shin	susu-mu	11
+遊	play	yū	aso-bu	12
+運	carry	un	hako-bu	12
+部	part	bu		11
+都	metropolis	to, tsu	miyako	11
+配	distribute	hai	kuba-ru	10
+酒	liquor	shu	sake, saka	10
+重	heavy, gravity, pile	jū, chō	omo-i, kasa-neru	9
+鉄	iron	tetsu	kurogane	13
+銀	silver	gin	shirogane	14
+開	open	kai	hira-ku, a-ku	12
+院	institution	in		10
+陽	sun	yō	hi	12
+階	storey	kai	kizahashi	12
+集	gather	shū	atsu-maru	12
+面	surface	men	omote, tsura	9
+題	topic	dai		18
+飲	drink	in	no-mu	12
+館	public building	kan	tate	16
+駅	station	eki		14
+鼻	nose	bi	hana	14

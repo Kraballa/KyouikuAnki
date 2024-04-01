@@ -1,0 +1,185 @@
+久	long time	kyū	hisa	3
+仏	Buddha	futsu, butsu	hotoke	4
+仮	sham	ka, ke	kari	6
+件	affair	ken		6
+任	responsibility	nin	maka-seru	6
+似	resemble	ji	ni-ru	7
+余	surplus	yo	ama-ru	7
+価	value	ka	atai	8
+保	preserve	ho	tamo-tsu	9
+修	discipline	shū	osa-meru	10
+俵	straw bag	hyō	tawara	10
+個	individual	ko		10
+備	provide	bi	sona-eru	12
+像	statue	zō		14
+再	again	sai, sa	futata-bi	6
+刊	publish	kan		5
+判	judge	han	waka-ru	7
+制	control	sei		8
+券	ticket	ken		8
+則	rule	soku	notto-ru	9
+効	effect	kō	ki-ku	8
+務	duty	mu	tsuto-meru	11
+勢	energy	sei	ikio-i	13
+厚	thick	kō	atsu-i	9
+句	phrase	ku		5
+可	possible	ka		5
+営	manage	ei	itona-mu	12
+因	cause	in	yo-ru	6
+団	association	dan, ton		6
+圧	pressure	atsu		5
+在	exist	zai	a-ru	6
+均	level	kin		7
+基	foundation	ki	moto-zuku	11
+報	report	hō	muku-iru	12
+境	boundary	kyō	sakai	14
+墓	grave	bo	haka	13
+増	increase	zō	ma-su, fu-eru	14
+夢	dream	mu	yume	13
+妻	wife	sai	tsuma	8
+婦	lady	fu		11
+容	contain	yō		10
+寄	approach	ki	yo-ru	11
+富	abundant	fu	tomi	12
+導	guide	dō	michibi-ku	15
+居	reside	kyo	i-ru	8
+属	belong	zoku		12
+布	linen	fu	nuno	5
+師	expert	shi		10
+常	normal	jō	tsune	11
+幹	tree trunk	kan	miki	13
+序	preface	jo		7
+弁	valve	ben		5
+張	stretch	chō	ha-ru	11
+往	journey	ō		8
+復	recovery	fuku		12
+徳	virtue	toku		14
+志	intention	shi	kokorozashi	7
+応	respond	ō		7
+快	cheerful	kai	kokoroyo-i	7
+性	gender	sei, shō	saga	8
+恩	grace	on		10
+情	feelings	jō	nasa-ke	11
+態	condition	tai		14
+慣	accustomed	kan	na-reru	14
+承	acquiesce	shō, jō	uketamawa-ru	8
+技	skill	gi	waza	7
+招	beckon	shō	mane-ku	8
+授	instruct	ju	sazu-keru	11
+採	pick	sai	to-ru	11
+接	contact	setsu	tsu-gu	11
+提	propose	tei	sa-geru	12
+損	loss	son	soko-neru	13
+支	support	shi	sasa-eru	4
+政	politics	sei	matsurigoto	9
+故	circumstances	ko	yue	9
+敵	enemy	teki	kataki	15
+断	decline, refuse	dan	kotowa-ru	11
+旧	old times	kyū		5
+易	easy	eki	yasa-shii	8
+暴	outburst	bō	aba-ku	15
+条	clause	jō	kudari	7
+枝	branch	shi	eda	8
+査	investigate	sa		9
+格	status	kaku		10
+桜	cherry	ō	sakura	10
+検	examine	ken		12
+構	construct	kō	kama-eru	14
+武	military	bu, mu		8
+比	compare	hi	kura-beru	4
+永	eternity	ei	naga-i	5
+河	stream	ka	kawa	8
+液	fluid	eki		11
+混	mix	kon	ma-zeru	11
+減	decrease	gen	he-ru	12
+測	measure	soku	haka-ru	12
+準	standard	jun		13
+演	perform	en		14
+潔	undefiled	ketsu	isagiyo-i	15
+災	disaster	sai	wazawa-i	7
+燃	burn	nen	mo-eru	16
+版	printing block	han		8
+犯	crime	han	oka-su	5
+状	form	jō		7
+独	alone	doku	hito-ri	9
+率	rate	ritsu, sotsu	hiki-iru	11
+現	appear	gen	arawa-reru	11
+留	detain	ryū, ru	todo-maru	10
+略	abbreviation	ryaku		11
+益	benefit	eki		10
+眼	eyeball	gan	me	11
+破	rend	ha	yabu-ru	10
+確	certain	kaku	tashi-ka	15
+示	indicate	shi	shime-su	5
+祖	ancestor	so		9
+禁	prohibition	kin		13
+移	shift	i	utsu-ru	11
+程	extent	tei	hodo	12
+税	tax	zei		12
+築	fabricate	chiku	kizu-ku	16
+精	refined	sei		14
+素	elementary	su, so	moto	10
+経	manage	kei, kyō	he-ru	11
+統	relationship	tō	su-beru	12
+絶	discontinue	zetsu	ta-tsu	12
+綿	cotton	men	wata	14
+総	whole	sō		14
+編	compile	hen	a-mu	15
+績	exploits	seki		17
+織	weave	shiki	o-ru	18
+罪	guilt	zai	tsumi	13
+群	flock	gun	mu-reru	13
+義	righteousness	gi		13
+耕	till	kō	tagaya-su	10
+職	employment	shoku		18
+肥	fertilizer	hi	ko-yasu	8
+能	ability	nō		10
+興	entertain	kyō	oko-su	16
+舌	tongue	zetsu	shita	6
+舎	cottage	sha		8
+術	art	jutsu	sube	11
+衛	defense	ei		16
+製	manufacture	sei		14
+複	duplicate	fuku		14
+規	rule	ki		11
+解	untie	ge, kai	to-ku	13
+設	establish	setsu	mou-keru	11
+許	permit	kyo	yuru-su	11
+証	evidence	shō	akashi	12
+評	evaluate	hyō		12
+講	lecture	kō		17
+謝	apologize	sha	ayama-ru	17
+識	discriminating	shiki		19
+護	safeguard	go	mamo-ru	20
+豊	bountiful	hō	yuta-ka	13
+財	wealth	zai		10
+貧	poor	hin	mazu-shii	11
+責	blame	seki	se-meru	11
+貸	lend	tai	ka-su	12
+貿	trade	bō		12
+賀	congratulations	ga		12
+資	resources	shi		13
+賛	approve	san		15
+質	quality	shitsu		15
+輸	transport	yu		16
+述	state, express	jutsu	no-beru	8
+迷	astray	mei	mayo-u	9
+退	retreat	tai	shirizo-ku	9
+逆	inverted	gyaku	saka-rau	9
+造	create	zō	tsuku-ru	10
+過	pass, exceed	ka	sugi-ru	12
+適	suitable	teki		14
+酸	acid	san		14
+鉱	mineral	kō		13
+銅	copper	dō		14
+銭	coin	sen	zeni	14
+防	prevent	bō	fuse-gu	7
+限	limit	gen	kagi-ru	9
+険	precipitous	ken	kewa-shii	11
+際	occasion	sai	kiwa	14
+雑	miscellaneous	zatsu		14
+非	negative	hi	ara-zu	8
+預	deposit	yo	azu-keru	13
+領	territory	ryō		14
+額	amount	gaku	hitai	18
+飼	domesticate	shi	ka-u	13

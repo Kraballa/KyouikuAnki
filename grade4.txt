@@ -1,0 +1,200 @@
+不	not	fu, bu		4
+争	conflict	sō	araso-u	6
+付	attach	fu	tsu-ku	5
+令	orders	rei		5
+以	reference point	i		5
+仲	relationship	chū	naka	6
+伝	convey	den	tsuta-eru	6
+位	rank	i	kurai	7
+低	low	tei	hiku-i	7
+例	example	rei	tato-eru	8
+便	facility, flight, mail	ben, bin	tayo-ri	9
+信	trust	shin		9
+倉	storage	sō	kura	10
+候	climate	kō		10
+借	borrow	shaku	ka-riru	10
+停	halt	tei	to-maru, to-meru	11
+健	healthy	ken	suko-yaka	11
+側	side	soku	kawa	11
+働	work	dō	hatara-ku	13
+億	hundred million	oku		15
+兆	portent, trillion	chō	kiza-shi	6
+児	offspring	ji, ni	ko	7
+共	together	kyō	tomo	6
+兵	soldier	hei, hyō	tsuwamono	7
+典	code	ten		8
+冷	cool	rei	tsume-tai, hi-eru, sa-meru	7
+初	first	sho	hatsu, haji-me	7
+別	separate	betsu	waka-reru	7
+利	profit	ri		7
+刷	printing	satsu	su-ru	8
+副	vice-	fuku		11
+功	achievement	kō		5
+加	add	ka	kuwa-eru	5
+努	toil	do	tsuto-meru	7
+労	labor	rō	negira-u	7
+勇	courage	yū	isa-mu	9
+包	wrap	hō	tsutsu-mu	5
+卒	graduate	sotsu		8
+協	cooperation	kyō		8
+単	simple	tan		9
+博	wide knowledge, Dr.	haku		12
+印	mark	in	shirushi	6
+参	participate	san	mai-ru	8
+史	history	shi		5
+司	director	shi		5
+各	each	kaku	ono-ono	6
+告	tell	koku	tsu-geru	7
+周	circumference	shū	mawa-ri	8
+唱	chant	shō	tona-eru	11
+喜	rejoice, joy	ki	yoroko-bu	12
+器	container	ki	utsuwa	15
+囲	surround	i	kako-u	7
+固	harden	ko	kata-maru	8
+型	model	kei	kata	9
+堂	public chamber	dō		11
+塩	salt	en	shio	13
+士	gentleman	shi		3
+変	change, strange	hen	ka-waru	9
+夫	husband	fu fū bu	otto	4
+失	lose	shitsu	ushina-u	5
+好	like	kō	su-ku, kono-mu	6
+季	seasons	ki		8
+孫	grandchild	son	mago	10
+完	perfect	kan		7
+官	government official	kan		8
+害	harm	gai		10
+察	guess	satsu		14
+巣	nest	sō	su	11
+差	distinction	sa		10
+希	hope	ki	mare	7
+席	seat	seki		10
+帯	sash	tai	obi	10
+底	bottom	tei	soko	8
+府	urban prefecture	fu		8
+康	ease	kō		11
+建	build	ken	ta-teru	9
+径	diameter	kei		8
+徒	junior	to		10
+得	acquire	toku	e-ru	11
+必	inevitable	hitsu	kanara-zu	5
+念	thought	nen		8
+愛	love	ai		13
+成	become	sei	na-ru	6
+戦	war	sen	ikusa, tataka-u	13
+折	fold, break	setsu	o-ru	7
+挙	raise	kyo	a-geru	10
+改	reformation	kai	arata-meru	7
+救	salvation	kyū	suku-u	11
+敗	break, failure	hai	yabu-reru	11
+散	scatter	san	chi-ru	12
+料	fee	ryō		10
+旗	flag	ki	hata	14
+昨	yesterday	saku		9
+景	scenery	kei		12
+最	superlative	sai	mo, motto-mo	12
+望	hope	bō	nozo-mu	11
+未	un-	mi	ima-da	5
+末	end	matsu	sue	5
+札	bill, plate, tag	satsu	fuda	5
+材	lumber, material	zai		7
+束	bundle	soku	taba, tsuka	7
+松	pine	shō	matsu	8
+果	accomplish, fruit	ka	ha-tasu	8
+栄	prosperity	ei	saka-eru	9
+案	plan	an		10
+梅	plum	bai	ume	10
+械	contraption	kai		11
+極	poles	kyoku	kiwa-meru	12
+標	signpost	hyō		15
+機	machine	ki	hata	16
+欠	lack	ketsu	ka-keru	4
+歴	curriculum	reki		14
+残	remainder, left	zan	noko-ru	10
+殺	kill	satsu	koro-su	10
+毒	poison	doku		8
+氏	surname, Mr.	shi	uji	4
+民	people	min	tami	5
+求	request	kyū	moto-mu	7
+治	govern, heal	chi, ji	osa-meru, nao-ru	8
+法	method	hō		8
+泣	cry	kyū	na-ku	8
+浅	shallow	sen	asa-i	9
+浴	bathe, bask	yoku	a-biru	10
+清	pure	sei, shō	kiyo-raka	11
+満	full	man	mi-chiru	12
+漁	look for, fishing	ryō, gyo	asa-ru	14
+灯	lamp	tō	hi	6
+無	nothing	mu, bu	na-i	12
+然	so, although	zen, nen	shika-shi	12
+焼	bake	shō	ya-ku	12
+照	illuminate	shō	te-rasu	13
+熱	heat	netsu	atsu-i	15
+牧	pasture, breed	boku	maki	8
+特	special	toku		10
+産	give birth	san	u-mu	11
+的	target	teki	mato	8
+省	government ministry, omit, look back	shō, sei	habu-ku	9
+祝	celebrate	shuku	iwa-u	9
+票	ballot	hyō		11
+種	species, seed	shu	tane	14
+積	accumulate, pile	seki	tsu-mu	16
+競	emulate	kyō	kiso-u	20
+笑	laugh	shō	wara-u	10
+管	pipe	kan	kuda	14
+節	node	setsu	fushi	13
+粉	flour	fun	ko, kona	10
+紀	chronicle	ki		9
+約	promise	yaku		9
+結	tie	ketsu	musu-bu, yu-u	12
+給	salary	kyū	tama-u	12
+続	continue	zoku	tsuzu-ku	13
+置	put	chi	o-ku	13
+老	old man	rō	o-iru	6
+胃	stomach	i		9
+脈	vein	myaku		10
+腸	intestines	chō	harawata	13
+臣	retainer	shin		7
+航	cruise	kō		10
+良	good	ryō	yo-i	7
+芸	art	gei		7
+芽	bud	ga	me	8
+英	England	ei		8
+菜	vegetable	sai	na	11
+街	street, city	gai	machi	12
+衣	garment	i	koromo	6
+要	need	yō	i-ru	9
+覚	memorize	kaku	obo-eru, sa-meru	12
+観	observe	kan	mi-ru	18
+訓	instruction	kun		10
+試	test	shi	kokoro-miru, tame-su	13
+説	theory	setsu	to-ku	14
+課	section	ka		15
+議	deliberation	gi		20
+象	elephant, figure	zō, shō		12
+貨	currency, cargo	ka		11
+貯	savings	cho	ta-meru	12
+費	expense	hi	tsui-yasu	12
+賞	prize	shō		15
+軍	army	gun		9
+輪	wheel	rin	wa	15
+辞	resign, speech, encyclopedia	ji	kotoba, ya-meru	13
+辺	edge, vicinity	hen	ata-ri	5
+連	take along	ren	tsu-reru, tsura-neru	10
+達	attain	tatsu	tachi	12
+選	choose	sen	era-bu	15
+郡	county	gun		10
+量	quantity	ryō		12
+録	transcript	roku		16
+鏡	mirror	kyō	kagami	19
+関	related	kan	seki	14
+陸	land	riku		11
+隊	squad	tai		12
+静	quiet	sei	shizu-ka	14
+順	obey	jun		12
+願	request	gan	nega-u	19
+類	sort	rui		18
+飛	fly	hi	to-bu	9
+飯	meal	han	meshi	12
+養	foster	yō	yashina-u	15
+験	verify	ken		18
