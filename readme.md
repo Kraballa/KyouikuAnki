@@ -1,0 +1,2 @@
+### Kyouiku Kanji Anki Deck
+Simple script to generate an Anki database for the kyouiku kanji based on [wikipedia](https://en.wikipedia.org/wiki/Ky%C5%8Diku_kanji#List_by_grade). Uses the [genanki](https://github.com/kerrickstaley/genanki) python package.
